@@ -1,0 +1,7 @@
+pdf2image==1.16.0
+Pillow==8.2.0
+PyMuPDF==1.18.14
+PyPDF2==1.26.0
+tk==0.1.0
+tkDocViewer==2.0.2
+tkPDFViewer==0.1
